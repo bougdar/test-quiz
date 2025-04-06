@@ -1,4 +1,5 @@
 
+import 'package:flutter_app/view/pages/profile.dart';
 import 'package:get/get.dart';
 
 import 'view/pages/detail.dart';
@@ -10,5 +11,6 @@ class AppRoutes {
     GetPage(name: '/home', page: () => const HomePage()),
     GetPage(name: '/Schedule', page: () => const SchedulePage()),
     GetPage(name: '/detail', page: () => const DetailPage()),
+    GetPage(name: '/profile', page: () => const ProfilePages()),
   ];
 }

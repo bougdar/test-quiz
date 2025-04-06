@@ -1,17 +1,16 @@
 import 'package:flutter/material.dart';
 
-
 import '../widget/bottom_bar.dart';
 
-class SchedulePage extends StatelessWidget {
-  const SchedulePage({super.key});
+class ProfilePages extends StatelessWidget {
+  const ProfilePages({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: const Center(
         child: Text(
-          'Schedule Page',
+          'profile Page',
         ),
       ),
             bottomNavigationBar: BottomBar(),
