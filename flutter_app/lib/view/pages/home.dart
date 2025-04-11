@@ -863,6 +863,7 @@ class NearLocation extends StatelessWidget {
 }
 
 class PopularHotel extends StatelessWidget {
+
   const PopularHotel({super.key});
 
   @override
@@ -1404,3 +1405,5 @@ class PopularHotel extends StatelessWidget {
     );
   }
 }
+
+

@@ -11,6 +11,7 @@ class AppRoutes {
     GetPage(name: '/home', page: () => const HomePage()),
     GetPage(name: '/Schedule', page: () => const SchedulePage()),
     GetPage(name: '/detail', page: () => const DetailPage()),
-    GetPage(name: '/profile', page: () => const ProfilePages()),
+    GetPage(name: '/profile', page: () => const ProfilePages(),  transition: Transition.fadeIn, // 👈 You can change this
+  transitionDuration: Duration(milliseconds: 400),),
   ];
 }
