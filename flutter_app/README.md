@@ -1,16 +1,25 @@
-# flutter_app
+# 🏨 Hoteliq – Hotel Booking App (Flutter)
 
-A new Flutter project.
+A sleek and modern **hotel booking app** built with **Flutter**, inspired by the beautiful [Hoteliq Figma design](https://www.figma.com/community/file/1169928945460966636).  
+Plan your travels effortlessly with a clean interface, interactive calendar, and intuitive navigation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Preview
 
-A few resources to get you started if this is your first Flutter project:
+> 📲 Below is the original design reference that inspired this Flutter implementation:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Design Preview](./assets/images/Thumbnail.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+## 📸 Screenshots from App
+
+| Home Screen | Hotel Details | Schedule |
+|-------------|----------------|----------|
+| ![Home](./assets/images/Screenshot_home.jpg) | ![Details](./assets/images/Screenshot_Details.jpg) | ![Schedule](./assets/images/Screenshot_Schedule.jpg) |
+
+
+---
+
